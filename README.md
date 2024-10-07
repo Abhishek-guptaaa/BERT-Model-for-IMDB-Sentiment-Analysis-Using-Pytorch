@@ -1,1 +1,1 @@
-# BERT-Model-for-IMDB-Sentiment-Analysis-Using-Pytorch
+# BERT Model for IMDB Sentiment Analysis Using Pytorch
